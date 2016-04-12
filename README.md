@@ -14,5 +14,5 @@ The mechanism to put those settings is called 'autoconfig'.
 Look here for autoconfig intro: http://pascal-mietlicki.fr/en/blog/post/work/firefox-autoconfig/
 
 Enable global autoconfig by:
-* copy `autoconfig.js` to `<FIREFOX INSTALLATION DIR>/default/prefs`
+* copy `autoconfig.js` to `<FIREFOX INSTALLATION DIR>/default/pref`
 * copy `firefox.cfg` to `<FIREFOX INSTALLATION DIR>`
